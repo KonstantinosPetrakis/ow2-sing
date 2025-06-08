@@ -4,6 +4,10 @@ This is a funny/silly project I put together in a few hours to cover any song us
 
 Here's a (carefully selected, most of the project's output is really bad) cover of "Bring Me To Life" by Evanescence using OW2's voice lines:
 
+
+https://github.com/user-attachments/assets/e9b6ecd5-e873-46d9-8e67-c6dc4ec7c8e0
+
+
 ```
 Symmetra: a lie @2000
 Winston: there's nothing @2580
